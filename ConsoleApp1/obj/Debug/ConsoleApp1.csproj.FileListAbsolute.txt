@@ -1,0 +1,6 @@
+C:\Users\logos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\logos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\logos\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\logos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\logos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\logos\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
